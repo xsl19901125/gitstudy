@@ -20,6 +20,7 @@ public class TestMain {
 			System.out.println(c.toString());
 		}
 		System.out.println("ѧϰgit");
+		System.out.println("test git merge");
 	}
 
 }
