@@ -5,7 +5,7 @@ import java.util.Iterator;
 import java.util.Set;
 
 import com.test.Color;
-
+//≤‚ ‘Enum
 public class TestMain {
 
 	public static void main(String[] args) {
